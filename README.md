@@ -12,7 +12,7 @@ C, Python, Bash, C++, UML
 
 <img src ="https://github-readme-stats.vercel.app/api?username=thomasdjb&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide=issues,contribs">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasdjb)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasdjb&show_icons=true&theme=tokyonight)
   
 ### Tools
 Jenkins, Gherkin, VSCode, Git
