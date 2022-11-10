@@ -10,7 +10,7 @@ C, Python, Bash, C++, UML
 
 ## Statistics 🎉
 
-<img src ="https://github-readme-stats.vercel.app/api?username=thomasdjb&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide=issues,contribs">
+<img src ="https://github-readme-stats.vercel.app/api?username=thomasdjb&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&hide=issues,contribs">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasdjb&show_icons=true&theme=tokyonight)
   
